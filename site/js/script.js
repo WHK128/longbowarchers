@@ -42,14 +42,14 @@ if(!result){
 }
 document.write('<meta name="viewport" content="width=device-width,initial-scale=1.0'+userScale+'">')
 
-var currentYear = (new Date).getFullYear();
+/*var currentYear = (new Date).getFullYear();
   $(document).ready(function() {
   $("#copyright-year").text( (new Date).getFullYear() );
   });
 
   $(function(){
   $('.sf-menu').superfish({autoArrows: true})
-})
+})*/
 
 
 
