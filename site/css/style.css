@@ -585,7 +585,7 @@ header .header_top {
 #content {
     background-color: #ffffff;
     padding-bottom: 93px;
-    background: #fffced url(../images/content_img.jpg) center 0 no-repeat fixed;
+    background: #fffced url(../images/content_img.jpg) center 0 fixed;
 }
 
 
